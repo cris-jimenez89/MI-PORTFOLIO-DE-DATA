@@ -42,6 +42,16 @@ Si mis proyectos te entusiasman tanto como a mí, o te surge alguna duda tras su
 ![image](https://github.com/cris-jimenez89/MI-PORTFOLIO-DE-DATA/assets/145456716/3b6667a6-0323-4522-922c-354787306169)
 ![newplot](https://github.com/cris-jimenez89/MI-PORTFOLIO-DE-DATA/assets/145456716/44c813a3-3c7f-4611-9f05-47ea97583db6)
 
+------------------------------------------------------------------------------------------
+### PROYECTO 3: DESAFIO DE TRIPULACIONES: NOWCASTING A PARTIR DE GOOGLE TREND Y GDELT
+[*NOWCASTING PARA PREDECIR UNA VARIABLE SOCIOECONÓMICA*](https://github.com/zero010010/Ranbee)
+* Este proyecto tiene como objetivo desarrollar un sistema de nowcasting para prever y analizar las tendencias de integración laboral en diferentes sectores y regiones. Utilizando técnicas de análisis de datos y aprendizaje automático, nuestro objetivo es proporcionar a los usuarios información actualizada y precisa sobre el estado del mercado laboral, así como identificar patrones y tendencias emergentes para ayudar en la toma de decisiones estratégicas.
+* Con un target extraído de la página EUROSTAT, y las variables predictoras siendo series temporales procedentes de las fuentes de datos GOOGLE TRENDS Y GDELT, SVI y análisis de tono y popularidad, pretendemos analizar en tiempo real una variable socioeconómica.
+* Creamos sendas APIs para la extracción de datos en Google Trends y GDELT, así como para la limpieza de la variable objetivo de EUROSTAT. Asimismo, como punto final, montamos una API para nuestros modelos de machine learning (LSTM, XGBOOST y Random Forest) que alimentaremos con los datos de las anteriores fuentes.
+* Keywords(Python, APIs, Nowcasting, Análisis de datos, Aprendizaje automático, Series temporales, Google Trends, GDELT, EUROSTAT, SVI (Social Vulnerability Index), Análisis de tono)
+
+
+
 
 
 
